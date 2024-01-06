@@ -6,6 +6,7 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 	
+		//dumb message in master to commit
 		Scanner sc =new Scanner(System.in);
 		System.out.println("Enter your String:");
 		String myString = sc.next();
