@@ -1,6 +1,7 @@
 package JavaPrograms;
 
 public class ProgForGIT {
+
 // Adding a change in feature
 
 	//Add a change in Master
@@ -10,5 +11,8 @@ public class ProgForGIT {
 
 //second change in feature
 //Adding for Github
+
+
+//my first change
 
 }
