@@ -6,6 +6,8 @@ public class AmstrongNumber {
 	
 	public static void main(String args[])
 	{
+		
+		//Adding a comment for GIT
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter your number: ");
 		int no = sc.nextInt();
